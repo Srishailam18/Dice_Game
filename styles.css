@@ -1,0 +1,61 @@
+body
+{
+    background-color: rgb(75, 75, 75);
+    text-align: center;
+}
+h1
+{
+    font-size:7rem;
+    font-weight:10rem;
+    color:aqua;
+    margin-top:1px;
+
+}
+.top-container
+{
+    margin-top:1px;
+    margin:0 auto 0 auto;
+}
+.images
+{
+    padding-top:20px;
+}
+.image-1
+{
+    margin-right:350px;
+    
+    padding-top:100px;
+   
+}
+.image-2
+{
+    margin:0 auto 0 auto;
+    padding-top:100px;
+}
+
+    
+
+.p1 
+{
+   
+    position:absolute;
+    left:290px;
+    color:aquamarine;
+}
+.p2 
+{
+    position:absolute;
+    left:920px;
+    color:aquamarine;
+}
+.btn
+{
+    position:absolute;
+    right:650px;
+    top:400px;
+    width:5rem;
+    height:3rem;
+    border-radius:1rem;
+    border: 10px solid #dfdb6d;
+    background-color: green;
+}
